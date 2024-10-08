@@ -3,11 +3,11 @@ onchain price and balance checking
 
 ## arbitrum
 
-[0x3620E2F8F2BB9C6E1518c3D8327a714C56D2021d](https://arbiscan.io/address/0x3620E2F8F2BB9C6E1518c3D8327a714C56D2021d#code)
+[0xE9f5968f147Ae392b9443c21375F4ed4CbBB2fdE](https://arbiscan.io/address/0xE9f5968f147Ae392b9443c21375F4ed4CbBB2fdE#code)
 
 ## base
 
-[0x8B304eFEf4dc1298D8F23F68Ab91468ee902DA45](https://basescan.org/address/0x8B304eFEf4dc1298D8F23F68Ab91468ee902DA45#code)
+[0xe6A62AB4243E9463494E548a5634b2dd6F2129F0](https://basescan.org/address/0xe6A62AB4243E9463494E548a5634b2dd6F2129F0#code)
 
 ## ethereum
 
